@@ -1,5 +1,5 @@
 # pm-notes
-*A project life cycle is a collection of project phases that defines
+* A project life cycle is a collection of project phases that defines
 what work will be performed in each phase
 what deliverables will be produced and when
 who is involved in each phase, and 
