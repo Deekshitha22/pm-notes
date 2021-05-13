@@ -4,7 +4,7 @@ what work will be performed in each phase
 what deliverables will be produced and when
 who is involved in each phase, and 
 how management will control and approve work produced in each phase
-*A deliverable is a product or service produced or provided as part of a project
+* A deliverable is a product or service produced or provided as part of a project
 
 ## NOTE IMPORTANT POINTS
 * Review a case study of an organization applying the project management process groups to manage an IT project, describe outputs of each process group, and understand the contribution that effective initiating, planning, executing, monitoring and controlling, and closing make to project success
